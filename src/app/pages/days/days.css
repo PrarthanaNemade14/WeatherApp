@@ -1,0 +1,13 @@
+.dayWeather{
+    text-align: center;
+    justify-content: center;
+    width: 900px;
+    margin:10px auto;
+    color: rgb(34, 109, 84);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.dayWeather ul li{
+    list-style: none;
+    margin-top:10px;
+}

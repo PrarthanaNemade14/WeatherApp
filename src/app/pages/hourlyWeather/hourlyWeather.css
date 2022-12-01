@@ -1,0 +1,14 @@
+.timeWeather{
+    text-align: center;
+    justify-content: center;
+    width: 900px;
+    margin:10px auto;
+    color: rgb(221, 48, 48);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.timeWeather ul li{
+    list-style: none;
+    margin-top:10px;
+}
