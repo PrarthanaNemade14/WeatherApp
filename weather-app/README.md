@@ -10,7 +10,7 @@ This is a weather app where u can see the weather of any city for 5 days.
 when we click on the any particular day we can see the particular day's hourly weather report.
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App].
 
 ## Available Scripts
 
